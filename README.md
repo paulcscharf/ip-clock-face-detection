@@ -15,3 +15,4 @@ Feel free to check out this video of it here:
 https://www.youtube.com/watch?v=ZNSFCFFQ-5E
 
 Or you can read a description of the used algorithm here:
+https://github.com/amulware/ip-clock-face-detection/blob/master/doc/Description.pdf
